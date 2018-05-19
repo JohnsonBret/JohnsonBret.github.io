@@ -1,0 +1,13 @@
+{
+"companyName": "Unity Technologies",
+"productName": "Nightmares",
+"dataUrl": "SurvivalShooter5Stripped.data.unityweb",
+"asmCodeUrl": "SurvivalShooter5Stripped.asm.code.unityweb",
+"asmMemoryUrl": "SurvivalShooter5Stripped.asm.memory.unityweb",
+"asmFrameworkUrl": "SurvivalShooter5Stripped.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
